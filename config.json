@@ -1,0 +1,31 @@
+{
+    "siteName": "{{SITE_NAME}}",
+    "metaDescription": "{{META_DESCRIPTION}}",
+    "hero": {
+      "headline": "{{HERO_HEADLINE}}",
+      "subheading": "{{HERO_SUBHEADING}}",
+      "mainImageUrl": "{{HERO_IMAGE_URL}}",
+      "ctaButtonText": "{{HERO_CTA_TEXT}}",
+      "ctaButtonLink": "{{HERO_CTA_LINK}}"
+    },
+    "features": [
+        {
+            "title": "{{FEATURE_1_TITLE}}",
+            "description": "{{FEATURE_1_DESCRIPTION}}",
+            "imageUrl": "{{FEATURE_1_IMAGE_URL}}"
+        },
+        {
+            "title": "{{FEATURE_2_TITLE}}",
+            "description": "{{FEATURE_2_DESCRIPTION}}",
+            "imageUrl": "{{FEATURE_2_IMAGE_URL}}"
+        },
+        {
+            "title": "{{FEATURE_3_TITLE}}",
+            "description": "{{FEATURE_3_DESCRIPTION}}",
+            "imageUrl": "{{FEATURE_3_IMAGE_URL}}"
+        }
+    ],
+    "footer": {
+      "copyright": "© 2025 {{SITE_NAME}}. All rights reserved."
+    }
+  }
