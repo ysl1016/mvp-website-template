@@ -1,3 +1,6 @@
+# mvp-website-template
+Next.js template for generation of MVP website
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
